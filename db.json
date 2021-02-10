@@ -1,0 +1,109 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Fachrur Razi",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 2,
+            "nama": "Fitri Handayani",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 3,
+            "nama": "Firda Apriani",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 4,
+            "nama": "Rafiqatul Inayah",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 5,
+            "nama": "Farhatus Zakiyah",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 6,
+            "nama": "Fachrur Razi",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 7,
+            "nama": "Fitri Handayani",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 8,
+            "nama": "Firda Apriani",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 9,
+            "nama": "Rafiqatul Inayah",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 10,
+            "nama": "Farhatus Zakiyah",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 11,
+            "nama": "Fachrur Razi",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 12,
+            "nama": "Fitri Handayani",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 13,
+            "nama": "Firda Apriani",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 14,
+            "nama": "Rafiqatul Inayah",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        },
+        {
+            "id": 15,
+            "nama": "Farhatus Zakiyah",
+            "alamat": "Malang",
+            "umur": 25,
+            "nohp": "051294182511"
+        }
+    ]
+}
